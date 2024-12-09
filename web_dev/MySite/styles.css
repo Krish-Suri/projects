@@ -1,0 +1,100 @@
+.skills {
+    color: #D4ECDD;
+    padding: 50px;
+    background-color: white;
+}
+table {
+    margin: auto;
+}
+body {
+    margin: 0;
+    color: #112031;
+    background-color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Oooh Baby', cursive;
+    font-size: 500%;
+    padding-top: 30px;
+    color: #66BFBF;
+}
+h2 {
+    color: #66BFBF;
+    font-weight: bold;
+}
+h3 {
+    color: #11999E;
+}
+p {
+    color: black;
+    line-height: 150%;
+}
+.contact {
+    background-color: #112031;
+    color: #D4ECDD;
+    padding: 50px;
+}
+.bottomcloud {
+    position: absolute;
+    left: 400px;
+    top: 250px
+}
+.topcloud {
+    position: absolute;
+    right: 400px;
+    top: 25px
+}
+.computer {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.adobe {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.about {
+    padding-top: 25px;
+    position: relative;
+    background-color: #E4F9F5;
+}
+.skill-row {
+    width: 60%;
+    margin: 100px auto;
+    text-align: left;
+}
+.intro {
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+.text {
+    width: 40%;
+    margin: auto;
+    line-height: 2;
+}
+.chilli {
+    width: 200px;
+}
+.in-touch {
+    background-color: white;
+    padding: 50px
+}
+.button {
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: #11999E;
+}
+
+hr {
+    border: dotted #E4F6F6 6px;
+    border-bottom: none;
+    width: 10%
+}
+#cta {
+    padding: 300px;
+}

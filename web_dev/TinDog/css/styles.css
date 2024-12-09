@@ -1,0 +1,140 @@
+#title {
+    background-color: #ff4c68;
+}
+body {
+    font-family: 'Outfit', sans-serif;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid {
+    padding: 3% 12%;
+}
+.download {
+    margin: 15px
+}
+h1 {
+    color: white;
+    font-size: 3.5rem;
+}
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+}
+.nav-item {
+    margin: 5px 50px 5px 0;
+    font-size: 20px;
+}
+.navbar {
+    margin-bottom: 65px;
+}
+.dog-img {
+    width: 60%;
+    transform: rotate(25deg);
+}
+.feature-icon {
+    color: #ef8172;
+    font-size: 60px;
+    margin-bottom: 25px;
+}
+.feature-heading {
+    font-size: 1.5rem;
+    font-family: Montserrat, serif;
+    font-weight: 900;
+}
+.feature-row {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    padding: 10%;
+}
+.feature-text {
+    color: #8f8f8f
+}
+.feature-item {
+    padding: 10px 0;
+}
+.feature-icon:hover {
+    color: #ff4c68
+}
+.phone-dog {
+    text-align: center;
+}
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-img {
+    border-radius: 100%;
+    width: 15%;
+    padding: 15px;
+    min-width: 100px;
+}
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+.press-logo {
+    width: 12%;
+    padding-bottom: 20px;
+}
+.carousel-inner {
+    padding: 3% 12%;
+}
+.card {
+    margin: 60px auto;
+    min-width: 275px;
+    max-width: 600px;
+    width: 90%;
+    display: inline-block;
+    vertical-align: center;
+}
+.list-group-item {
+    padding: 20px;
+}
+.sign-up-btn {
+    margin: 20px;
+    width: 90%;
+}
+#pricing {
+    text-align: center;
+    padding: 60px
+}
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 100px 10% 0 10%;
+}
+.cta-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+#footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #ff4c68;
+    margin: 0;
+}
+@media screen and (max-width: 1000px) {
+    .dog-img {
+        transform: rotate(0deg);
+        width: 300px;
+    }
+    .phone-dog {
+        margin: auto;
+    }
+    .title-page {
+        text-align: center;
+    }
+
+}
